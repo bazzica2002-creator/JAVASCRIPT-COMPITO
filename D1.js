@@ -78,4 +78,24 @@ console.log('il valore di a1' , a1)
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* SCRIVI QUI LA TUA RISPOSTA */ 
+let finalname 
+let name1 = true
+name1 = 'john'
+let name2 = true
+name2 = 'John' 
+finalname = name1 && name2
+finalname= name1 || name2
+
+
+
+
+
+
+
+
+
+
+
+
+
