@@ -29,6 +29,9 @@ console.log(undrfined)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let myName 
+myName = 'Valerio'
+console.log(myName)
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
