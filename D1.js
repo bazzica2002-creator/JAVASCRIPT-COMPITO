@@ -50,6 +50,9 @@ console.log( 'il valore di s1 è' , s1)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let x = 12
+console.log(x)
+
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
@@ -57,6 +60,8 @@ console.log( 'il valore di s1 è' , s1)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+myName = 'Bazzica'
+console.log(myName)
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
