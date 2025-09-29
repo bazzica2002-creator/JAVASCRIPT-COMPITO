@@ -68,6 +68,9 @@ console.log(myName)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let n3 = 4 
+let a1 = x - 4 
+console.log('il valore di a1' , a1)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
