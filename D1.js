@@ -38,6 +38,12 @@ console.log(myName)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let n1 = 6 + 6 
+let n2 = 20
+let s1 = n1 + n2 
+console.log( 'il valore di s1 è' , s1)
+
+
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.

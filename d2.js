@@ -59,6 +59,13 @@ let haiLaPatente = false
 let myFavouriteNumber = 7
 myFavouriteNumber = 12
 
+let n1 = 8
+let n2 = 3 + 2 // 5
+
+let s1 = n1 + n2 // 13
+console.log('il valore di s1 è', s1)
+
+
 // myFavouriteNumber = 'EPICODE' // SCONSIGLIATO!!!
 // questa variabile è nata inizialmente per ospitare un TIPO di dato numerico
 // buona prassi sarebbe assegnarle sempre valori NUMERICI
